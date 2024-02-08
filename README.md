@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Andy-devCode/social-proof-section-master)
+- Live Site URL: (https://andy-devcode.github.io/social-proof-section-master/)
 
 ## My process
 
@@ -37,8 +37,8 @@ Users should be able to:
 
 ### What I learned
 
-This is the first project that I use grid with, so it was very intresiting learning about it, how it works and the opportunities it brings
+This is the first project, in a long time, that I use grid with, so it was very intresiting learning about it, how it works and the opportunities it brings
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Andy-devCode](https://www.frontendmentor.io/profile/Andy-devCode)
